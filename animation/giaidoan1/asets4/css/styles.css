@@ -175,3 +175,16 @@ body.dark {
 .item:hover img {
     filter: brightness(110%) contrast(115%);
 }
+/* TRANG XEM PHIM */
+.watch-page{
+    padding:120px 40px;
+    text-align:center;
+}
+
+.watch-page video{
+    width:80%;
+    max-width:800px;
+    border-radius:20px;
+    box-shadow:0 15px 40px rgba(0,0,0,.4);
+    margin:30px 0;
+}
